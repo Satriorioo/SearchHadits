@@ -1,8 +1,8 @@
 streamlit
-sentence-transformers==2.6.1
-scikit-learn==1.4.2
-pandas==2.2.2
-numpy==1.26.4
+sentence-transformers==4.1.0
+scikit-learn==1.6.1
+pandas==2.2.3
+numpy==2.2.2
 torch==2.7.1
-transformers==4.41.1
-gdown==5.1.0
+transformers==4.52.4
+gdown==5.2.0
